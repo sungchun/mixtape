@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+
+.song-card {
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  height: 64px;
+  margin: 10px 10px 20px 0px;
+  padding: 0px;
+  /* background: linear-gradient(to right, #5858eb, #98a1f7); */
+  background: linear-gradient(144deg, #af40ff, #5858eb 50%, #2f5cd8);
+  border-radius: 1px;
+  box-shadow: #4646b1 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #ffffff;
+  opacity: 1;
+  outline: 0 solid transparent;
+}
+
+.track-text {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+  width: 360px;
+  padding-left: 5px;
+}
+
+li {
+  list-style: none;
+}
+
+.song-name {
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.artist-name {
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.album-name {
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.track-image {
+  display: flex;
+  flex-direction: column;
+  margin-right: 5px;
+}
+
+button {
+  border-radius: 5px;
+  border: none;
+}
+
+.add-button {
+  position: relative;
+  left: 450px;
+  bottom: 25px;
+  width: 19px;
+  background: linear-gradient(to bottom right, #c7aad3, #f6e1f7);
+  cursor: pointer;
+  box-shadow: 2px 1px 10px -1px #28226e;
+}
+
+.play-button {
+  cursor: pointer;
+  background: linear-gradient(to bottom right, #c7aad3, #f6e1f7);
+  box-shadow: 2px 1px 10px -1px #28226e;
+}
+
+.track-play-button {
+  width: 20px;
+  border-radius: 50px;
+  position: relative;
+  left: 46px;
+  top: 37px;
+}
+
+.play-icon {
+  width: 10px;
+}
+
+.add-icon {
+  width: 10px;
+}

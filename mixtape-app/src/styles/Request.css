@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+.song-card-list-item {
+  width: 500px;
+}
+
+.song-card-list {
+  width: 500px;
+  position: relative;
+  top: 35px;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding: 0px;
+}
+
+.search_section {
+  width: 45vw;
+  height: 75vh;
+  overflow: scroll;
+}
+
+input {
+  z-index: 1;
+  position: fixed;
+  left: 30px;
+  top: 170px;
+  outline: none;
+  margin: 0px 0px 12px 10px;
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  color: white;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.671);
+  height: 20px;
+  width: 500px;
+  font-size: 30px;
+  padding: 20px;
+}

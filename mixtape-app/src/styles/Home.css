@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+.body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.left-column {
+  background-image: linear-gradient(#20263a, #181a29);
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  width: 50vw;
+}
+
+.left-column h1 {
+  font-size: 50px;
+  color: #ffffff;
+  margin-left: 15px;
+}
+
+.main {
+  display: flex;
+}
+
+.right-column {
+  display: flex;
+  flex-direction: row;
+  background-image: linear-gradient(#2e2e46, #212130);
+}
+
+.side {
+  position: fixed;
+  width: 100%;
+}
