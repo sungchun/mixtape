@@ -1,5 +1,9 @@
 #Mixtape
 
+## Project Overview
+
+This project was the second project I completed during my Software Engineering Immersive course at General Assembly. This project was a pair project and its objective was making a web app that Utilized RESTful APIs to provide the user information.
+
 ## Deployment:
 
 This project was made using the Spotify API and is still in developer mode. This means that its features are inaccessible to the public.
@@ -15,10 +19,6 @@ The projects’ files can be downloaded but the web app itself will not be funct
 - If you want to download the ZIP file:
   1. Click the button labeled ‘Code’
   2.Click the ‘Download ZIP’ button on the dropdown menu.
-
-## Project Overview
-
-This project was the second project I completed during my Software Engineering Immersive course at General Assembly. This project was a pair project and its objective was making a web app that Utilized RESTful APIs to provide the user information.
 
 ## Goal and Timeframe:
 
