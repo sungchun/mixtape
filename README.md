@@ -195,11 +195,11 @@ Each song had a corresponding button which added said the corresponding song to 
 
 Here are images from the final project:
 
-![login page](mixtape-login.png)
+![login page](assets/mixtape-login.png)
 
-![authentication page](mixtape-authentication.png)
+![authentication page](assets/mixtape-authentication.png)
 
-![main page](mixtape-main2.png)
+![main page](assets/mixtape-main2.png)
 
 ## Bugs
 
