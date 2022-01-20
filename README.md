@@ -6,15 +6,15 @@ This project was made using the Spotify API and is still in developer mode. This
 
 ## How to download:
 
-The projects’ files can be downloaded but the web app itself will not be functional because of Spotify developer mode. The files can be accessed here.
+The projects’ files can be downloaded but the web app itself will not be functional because of Spotify developer mode. The files can be accessed here: [GitHub](https://github.com/sungchun/mixtape).
 
-If you want to clone the repository:
-Click the button labeled ‘Code’.
-On the dropdown menu select HTTPS and copy the link provided.
-Using the terminal, navigate to where you want to clone the repository and execute the command: “git clone (copied HTTPS link)”
-If you want to download the ZIP file:
-Click the button labeled ‘Code’
-Click the ‘Download ZIP’ button on the dropdown menu.
+- If you want to clone the repository:
+  1. Click the button labeled ‘Code’.
+  2. On the dropdown menu select HTTPS and copy the link provided.
+  3. Using the terminal, navigate to where you want to clone the repository and execute the command: “git clone (copied HTTPS link)”
+- If you want to download the ZIP file:
+  1. Click the button labeled ‘Code’
+  2.Click the ‘Download ZIP’ button on the dropdown menu.
 
 ## Project Overview
 
